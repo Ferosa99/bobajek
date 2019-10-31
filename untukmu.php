@@ -104,7 +104,7 @@ function claim($token)
       save("error_log.txt", json_encode($claim));
 		return false;
 		}
-	}
+	
 echo "===========================================================\n";
 echo "####### GAK ADA GUJEK YANG AMAN BY SGBTEAM MAKASSAR #######\n";
 echo "############## FOLLOW LAH IG W @ABBACUGAMING ##############\n";
